@@ -98,6 +98,7 @@ Thirteen principles across four parts: how the brain perceives reality, how it d
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basava-code&show_icons=true&theme=default)
 
+> *Numbers are modest — I started coding recently, unlocked by AI, LLMs, and vibe coding. Watch this space.*
 ---
 
 <!--
