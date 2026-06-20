@@ -92,7 +92,13 @@ Thirteen principles across four parts: how the brain perceives reality, how it d
 
 ---
 
-*UNDP SDG Achievers Award, 2026 · Silver Medal, Government of India (Census, 2012) · KVPY Scholar*## Hi there 👋
+*UNDP SDG Achievers Award, 2026 · Silver Medal, Government of India (Census, 2012) · KVPY Scholar*## 
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basava-code&show_icons=true&theme=default)
+
+---
 
 <!--
 **basava-code/basava-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
